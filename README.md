@@ -11,14 +11,14 @@ Sistem informasi A
 ![WhatsApp Image 2023-09-26 at 01 38 31](https://github.com/salsabllanr/DDP/assets/144398756/00d999fb-09ae-46c4-8386-b8e4aa25eea3)
 ![WhatsApp Image 2023-09-26 at 01 39 06](https://github.com/salsabllanr/DDP/assets/144398756/2f242a23-d401-4d36-941d-eb5e15157119)
 
-Hal pertama yang harus dilakukan adalah user melakukan login terlebih dahulu
+# Hal pertama yang harus dilakukan adalah user melakukan login terlebih dahulu
 
 ![WhatsApp Image 2023-09-26 at 01 50 03](https://github.com/salsabllanr/DDP/assets/144398756/e52a0e60-1d50-4050-bb46-7c499c8cb713)
 
-Jika inputan yang dimasukkan user salah, maka akan mengulang sebanyak 3 kali lalu program akan berhenti secara paksa
+# Jika inputan yang dimasukkan user salah, maka akan mengulang sebanyak 3 kali lalu program akan berhenti secara paksa
 ![WhatsApp Image 2023-09-26 at 02 00 30](https://github.com/salsabllanr/DDP/assets/144398756/d942d337-0b89-4a35-be64-b2381645c729)
 
-Jika user berhasil login maka, user akan mendapatkan opsi pilihan untuk memasukkan rumus yang ingin dicari seperti pada hasil output
+# Jika user berhasil login maka, user akan mendapatkan opsi pilihan untuk memasukkan rumus yang ingin dicari seperti pada hasil output
 ![WhatsApp Image 2023-09-26 at 01 53 56](https://github.com/salsabllanr/DDP/assets/144398756/50fb8dac-e25a-4eca-991e-3fcbaa805028)
 
 ![WhatsApp Image 2023-09-26 at 01 53 56 (1)](https://github.com/salsabllanr/DDP/assets/144398756/0c891168-2163-4207-8f7b-f4e9e65fc139)
