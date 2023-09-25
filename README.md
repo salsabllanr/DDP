@@ -26,5 +26,9 @@ Sistem informasi A
 
 ![WhatsApp Image 2023-09-26 at 01 53 56 (2)](https://github.com/salsabllanr/DDP/assets/144398756/07a31ede-33e8-43a3-8c2c-94f7157f79fd)
 
+# Jika user memasukkan inputan >4 , maka user akan diminta untuk mengulang inputan sampai benar
+![WhatsApp Image 2023-09-26 at 02 46 46](https://github.com/salsabllanr/DDP/assets/144398756/b793fbe7-fe03-4c96-a7b3-ef9bae5f38a3)
+
 # Jika user telah selesai dari program maka user dapat memilih pilihan nomor 4
 ![WhatsApp Image 2023-09-26 at 01 53 56 (3)](https://github.com/salsabllanr/DDP/assets/144398756/4bd2eb4b-ae22-403c-b2f1-14adab5ebdcd)
+
