@@ -10,3 +10,6 @@ Sistem informasi A
 # OUTPUT YANG KELUAR
 ![WhatsApp Image 2023-09-26 at 01 38 31](https://github.com/salsabllanr/DDP/assets/144398756/00d999fb-09ae-46c4-8386-b8e4aa25eea3)
 ![WhatsApp Image 2023-09-26 at 01 39 06](https://github.com/salsabllanr/DDP/assets/144398756/2f242a23-d401-4d36-941d-eb5e15157119)
+
+Hal pertama yang harus dilakukan adalah user melakukan login terlebih dahulu
+![Uploading Jepretan Layar 2023-09-26 pukul 01.43.26.png…]()
