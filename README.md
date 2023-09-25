@@ -26,6 +26,5 @@ Sistem informasi A
 
 ![WhatsApp Image 2023-09-26 at 01 53 56 (2)](https://github.com/salsabllanr/DDP/assets/144398756/07a31ede-33e8-43a3-8c2c-94f7157f79fd)
 
-
+# Jika user telah selesai, user dapat memilih pilihan yang tersedia
 ![WhatsApp Image 2023-09-26 at 01 53 56 (3)](https://github.com/salsabllanr/DDP/assets/144398756/4bd2eb4b-ae22-403c-b2f1-14adab5ebdcd)
-
